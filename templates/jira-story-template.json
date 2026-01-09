@@ -1,0 +1,10 @@
+{
+  "projectKey": "YOUR_PROJECT_KEY",
+  "issueType": "User Story",
+  "components": ["YOUR_COMPONENT"],
+  "assignee": "default_assignee",
+  "labels": [],
+  "epicLink": "",
+  "customFields": {},
+  "notes": "Template for creating Jira stories. Update the default values above as needed. When creating a story, these defaults will be used unless overridden by the specific request."
+}
